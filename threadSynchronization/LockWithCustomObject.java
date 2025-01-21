@@ -38,5 +38,5 @@ public class LockWithCustomObject {
 
         System.out.println("Counter1:"+counter1+"***"+"Counter2:"+counter2);
     }
-    
+      
 }
